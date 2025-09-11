@@ -11,3 +11,4 @@ opencv-python
 mutagen
 pythonmonkey
 tls_client
+pyjwt
